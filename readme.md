@@ -9,3 +9,5 @@ Over the course of our three-day training series, you will learn
 - And more!
 
 This repository is the files enabling the <a href="https://camwest5.github.io/python-training-intensive-winter25">corresponding GitHub page.</a>
+
+Contact us at [training@library.uq.edu.au](mailto:training@library.uq.edu.au) for more information.
